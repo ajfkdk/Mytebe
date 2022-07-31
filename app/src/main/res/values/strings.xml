@@ -1,0 +1,18 @@
+<resources>
+    <string name="login_hint_singleCode">请输入密钥</string>
+    <string name="login_btn_login">开启</string>
+    <string name="login_tv_update">检测更新</string>
+    <string name="login_tv_unbind">解绑密钥</string>
+    <string name="main_btn_start">开启</string>
+    <string name="main_btn_close">关闭</string>
+    <string name="des_image">悬浮图标</string>
+    <string name="menu_title">Panda</string>
+    <string name="menu_switch_run">开启</string>
+    <string name="menu_checkBox_ray">射线</string>
+    <string name="menu_checkBox_rect">方框</string>
+    <string name="menu_checkBox_buff">野怪</string>
+    <string name="menu_checkBox_cd">冷却</string>
+    <string name="menu_tv_bar1">调整小地图位置</string>
+    <string name="menu_tv_bar3">调整大地图位置</string>
+    <string name="app_name">test</string>
+</resources>
